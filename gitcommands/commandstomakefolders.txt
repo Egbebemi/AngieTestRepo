@@ -1,0 +1,18 @@
+  448  mkdir bashscripts
+  449  cd bashscripts/
+  450  pwd
+  451  mv /Users/cadillacburgess/AngieTestRepo/bucketcreate.sh /Users/cadillacburgess/AngieTestRepo/bashscripts
+  452  pwd
+  453  cd ..
+  454  mkdir gitcommands
+  455  cd gitcommand
+  456  cd gitcommands/
+  457  mv /Users/cadillacburgess/AngieTestRepo/gitcommand.txt /Users/cadillacburgess/AngieTestRepo/gitcommands/
+  458  ls
+  459  cd ..
+  460  ls
+  461  git status
+  462  git add .
+  463  git commit -m "moving files into seperate folders"
+  464  git status
+  465  git push
