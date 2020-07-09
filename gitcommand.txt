@@ -1,0 +1,8 @@
+1. git clone https://github.com/Egbebemi/AngieTestRepo.git
+2. mv file to repo folder
+3. git status
+4. git add .
+5. git status
+6. git commit -m ""
+7. git push origin master
+
